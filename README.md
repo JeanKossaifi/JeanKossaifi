@@ -2,20 +2,12 @@
 
 I lead the [AI-Aided Engineering research group](https://research.nvidia.com/labs/aie/) at **NVIDIA Research**. My research develops neural operators, tensor methods and geometric representations for simulation, forecasting and engineering design.
 
-I created **TensorLy**, **TensorLy-Torch** and **NeuralOperator** to make advanced computational methods easier to use and extend, and develop these libraries with their open-source communities.
 
-## Open-source projects
+I created [TensorLy](https://tensorly.org/) and [TensorLy-Torch](https://tensorly.org/torch/) for tensor methods and tensorized deep learning, and [NeuralOperator](https://neuraloperator.github.io/) for scientific machine learning. I develop these libraries with their open-source communities to make advanced computational methods easier to use and extend.
 
-Here are some of my Open-Source projects: 
+I also built [ZenCFG](https://github.com/JeanKossaifi/zencfg) to simplify configuration for Python projects and research experiments, and minimize errors - if you train AI/Deep Learning models, give it a try!
 
-| Project | What it provides |
-| --- | --- |
-| [NeuralOperator](https://github.com/neuraloperator/neuraloperator) | Neural operator models and tools for scientific machine learning in PyTorch. |
-| [TensorLy](https://github.com/tensorly/tensorly) | Tensor decompositions, tensor regression and tools for tensor learning in Python. |
-| [TensorLy-Torch](https://github.com/tensorly/torch) | Tensorized layers and efficient tensor operations for PyTorch. |
-| [ZenCFG](https://github.com/JeanKossaifi/zencfg) | Python configuration for research experiments and other projects, with validation and command-line overrides. |
 
-Get started: [NeuralOperator documentation](https://neuraloperator.github.io/) · [TensorLy documentation](https://tensorly.org/) · [TensorLy-Torch documentation](https://tensorly.org/torch/)
 
 ## Background and research
 
